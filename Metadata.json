@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 29488,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-runbook-to-start-and-stop-vms-from-a-sharepoint-online-schedule/master/AutoShutdownFinal.ps1",
+    "DownloadCount": 1679,
+    "Id": "Azure-Automation-Runbook-e506a1ec",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 147,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2017-5-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Please read this blog post for full instructions on the usage of this script.Process Flowchart -->\u00a0AutoShutdown Flowchart.pdfExtract: To make the most efficient use of Public cloud you need to ensure your servers are only running when they need to be.Using SharePoint online",
+    "Title": "Azure Automation Runbook to start and stop VMs from a SharePoint Online Schedule",
+    "UpdatedDate": "2017-5-15T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-runbook-to-start-and-stop-vms-from-a-sharepoint-online-schedule",
+    "UserTags": "Microsoft Azure, Sharepoint Online, Azure Automation"
+}
